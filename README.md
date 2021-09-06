@@ -1,1 +1,1 @@
-# imges_preview
+# imgaes_preview
